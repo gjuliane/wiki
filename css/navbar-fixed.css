@@ -1,0 +1,14 @@
+/* Show it is fixed to the top */
+body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+  }
+.fixed-top {
+  height: 70px;
+}
+.titulo-home{
+  font-size: 34px;
+}
+.titulo-parciales{
+  font-size: 24px;
+}
