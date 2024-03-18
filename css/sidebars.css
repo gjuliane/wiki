@@ -63,8 +63,11 @@ main {
 }
 
 .main{
-  max-height: 90vh;
+  max-height: 86vh;
 }
 .footer {
   text-align: center;
+}
+.fixed-top {
+  /* max-height: 46px; */
 }
