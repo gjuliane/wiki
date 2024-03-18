@@ -6,9 +6,38 @@ body {
 .fixed-top {
   height: 70px;
 }
-.titulo-home{
-  font-size: 34px;
+.titulo-school{
+  font-size: 40px;
+  text-align: center;
 }
 .titulo-parciales{
   font-size: 24px;
+}
+.titulo-voca{
+  font-size: 28px;
+  text-align: center;
+}
+.texto-centrado{
+  text-align: center;
+}
+.imagen{
+  width: 100px;
+  height: 90px;
+}
+.cecyt{
+  width: 100px;
+  height: 90px;
+}
+.control{
+  width: 750px;
+  height: 550px;
+  opacity: 0.3;
+}
+.titulo-practica{
+  font-size: 40px;
+  text-align: center;
+}
+.escalera{
+  width: 750px;
+  height: 500px;
 }

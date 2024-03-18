@@ -61,3 +61,10 @@ main {
 .scrollarea {
   overflow-y: auto;
 }
+
+.main{
+  max-height: 90vh;
+}
+.footer {
+  text-align: center;
+}
